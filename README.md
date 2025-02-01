@@ -39,4 +39,4 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. S
 ## Contact
 
 - GitHub repository: [apa64/try-python](https://github.com/apa64/try-python)
-- Twitter [@apa64](https://twitter.com/apa64)
+- Mastodon: [@apa64@mementomori.social](https://mementomori.social/@apa64)
